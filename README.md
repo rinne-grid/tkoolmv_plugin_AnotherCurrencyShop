@@ -33,7 +33,7 @@
 1.  AnotherCurrencyShop.jsをダウンロードし、```ツクールプロジェクト/js/plugins/```に配置します
 2.  以下の画像のように、プラグインを有効にします  
 
-   ![never_watch_picture.png](http://www.rinscript.sakura.ne.jp/tkool/mv/github_images/another_currency_shop_plugin_on.png)
+   ![another_currency_shop_plugin_on_03.png](http://www.rinscript.sakura.ne.jp/tkool/mv/github_images/another_currency_shop_plugin_on_03.png)
 
     |パラメーター名|説明|
     |:--|:----|
@@ -44,7 +44,7 @@
 
 3.  以下画像のように ```プラグインコマンド``` を指定します
 
-   ![never_watch_picture.png](http://www.rinscript.sakura.ne.jp/tkool/mv/github_images/another_currency_shop_plugin_on_02.png)
+   ![another_currency_shop_plugin_on_02.png](http://www.rinscript.sakura.ne.jp/tkool/mv/github_images/another_currency_shop_plugin_on_02.png)
 
    ```
    // お金の代わりに変数（初期値：1番目の変数)を利用するように設定
