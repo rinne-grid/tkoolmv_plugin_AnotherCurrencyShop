@@ -96,10 +96,6 @@
 
         Window_ShopCommand.prototype.makeCommandList = function() {
             this.clearCommandList();
-
-            console.log(buyCommandName);
-            console.log(sellCommandName);
-
             this.addCommand(buyCommandName,    'buy');
             this.addCommand(sellCommandName,   'sell',   !this._purchaseOnly);
             this.addCommand(TextManager.cancel, 'cancel');
